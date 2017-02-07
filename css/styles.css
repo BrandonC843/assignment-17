@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box; }
+
+img {
+  width: 100%;
+  display: block; }
+
+#app-container {
+  font-size: 0; }
+
+.congressList {
+  font-size: 10px;
+  background-color: #D4F1C7;
+  width: 30%;
+  margin: 10px; }
+
+/*# sourceMappingURL=styles.css.map */
